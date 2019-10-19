@@ -1,2 +1,2 @@
-# sequelizedBurger
-Burger Crafting App using MySQL
+# TrainTime
+HW 7 for coding bootcamp

@@ -1,0 +1,27 @@
+.burger-list {
+  margin: 0 auto;
+  margin-top: 75px;
+}
+
+.burger-container {
+  float: left;
+};
+
+.devoured-container {
+  float: right;
+}
+
+input.new-item:focus {
+  outline: none;
+}
+
+.list-group-item > button.delete,
+.list-group-item > button.devoured {
+  float: right;
+  height: 25px;
+  margin-left: 5px;
+}
+
+.edit {
+  width: 100%;
+}
