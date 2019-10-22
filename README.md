@@ -1,2 +1,2 @@
-# TrainTime
-HW 7 for coding bootcamp
+# Sequelized Burger
+HW for coding bootcamp
